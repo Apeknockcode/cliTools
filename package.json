@@ -1,0 +1,23 @@
+{
+  "name": "clitools",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobotPro007/cliTools.git"
+  },
+  "keywords": [
+    "cli",
+    "vue2 vue3 ts vant"
+  ],
+  "author": "taotao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobotPro007/cliTools/issues"
+  },
+  "homepage": "https://github.com/RobotPro007/cliTools#readme"
+}
