@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "脚手架",
   "main": "index.js",
+  "bin": {
+    "taotao": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/RobotPro007/cliTools/issues"
   },
-  "homepage": "https://github.com/RobotPro007/cliTools#readme"
+  "homepage": "https://github.com/RobotPro007/cliTools#readme",
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
 }
