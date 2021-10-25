@@ -1,7 +1,7 @@
 {
-  "name": "clitools",
+  "name": "cliTools",
   "version": "1.0.0",
-  "description": "脚手架",
+  "description": "",
   "main": "index.js",
   "bin": {
     "taotao": "./bin/cli.js"
@@ -13,17 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/RobotPro007/cliTools.git"
   },
-  "keywords": [
-    "cli",
-    "vue2 vue3 ts vant"
-  ],
-  "author": "taotao",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/RobotPro007/cliTools/issues"
   },
   "homepage": "https://github.com/RobotPro007/cliTools#readme",
-  "dependencies": {
-    "commander": "^8.3.0"
-  }
+  "dependencies": {}
 }

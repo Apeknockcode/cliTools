@@ -1,1 +1,1 @@
-console.log('zhurong-cli working ~')
+console.log("123123")
