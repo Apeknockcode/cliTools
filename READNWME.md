@@ -18,6 +18,7 @@ $ npm install axios --save
 $ npm install download-git-repo --save
 $ npm install figlet --save
 $ npm i chalk --save
+$ npm install download-git-repo --save
 
 
 
